@@ -11,7 +11,7 @@ This project aims to predict stock prices using linear regression. The primary o
 ## Files and Directories
 
 - `stock_data.csv`: The dataset containing historical stock data (Date, Adjusted Close, Open, Close, High, Low, Volume).
-- `stock_prediction.ipynb`: The Jupyter notebook containing the complete analysis, from data preprocessing to model evaluation.
+- `main.ipynb`: The Jupyter notebook containing the complete analysis, from data preprocessing to model evaluation.
 - `requirements.txt`: A file listing the Python libraries required to run the project.
 
 ---
@@ -39,8 +39,8 @@ pip install -r requirements.txt
 
 1. Clone the repository or download the files:
    ```bash
-   git clone https://github.com/yourusername/stock-price-prediction.git
-   cd stock-price-prediction
+   git clone https://github.com/the-madhankumar/Stock_data.git
+   cd Stock_data
    ```
 
 2. Install the required libraries:
