@@ -48,7 +48,7 @@ pip install -r requirements.txt
    pip install -r requirements.txt
    ```
 
-3. Open the Jupyter notebook `stock_prediction.ipynb` in Jupyter Lab or Jupyter Notebook.
+3. Open the Jupyter notebook `main.ipynb` in Jupyter Lab or Jupyter Notebook.
 
 4. Follow the instructions within the notebook to load the dataset, preprocess the data, train the model, and visualize the results.
 
